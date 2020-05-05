@@ -1,0 +1,5 @@
+/Users/kayra/Projects/Ugur/Ugur/bin/Debug/Ugur.exe
+/Users/kayra/Projects/Ugur/Ugur/bin/Debug/Ugur.pdb
+/Users/kayra/Projects/Ugur/Ugur/obj/Debug/Ugur.csprojAssemblyReference.cache
+/Users/kayra/Projects/Ugur/Ugur/obj/Debug/Ugur.exe
+/Users/kayra/Projects/Ugur/Ugur/obj/Debug/Ugur.pdb
