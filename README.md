@@ -1,0 +1,2 @@
+# 18my93027
+Enkisayolubulmaalgoritmasi
